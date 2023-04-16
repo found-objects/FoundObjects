@@ -55,7 +55,7 @@ Like many other production facilities, the use of CNC routers at Fiction Factory
 In a continued quest to reduce waste and use more of each sheet of material, Fiction Factory collaborated with IAAC and Jesse Howard to create new open source software solutions. By anticipating that each sheet of material will contain leftover space, we developed tools that allow new usable components to be automatically generated from this space.
 
 ​
-
+[![growing parts in CNC waste](https://img.youtube.com/vi/14kSnQ6gd3Q/0.jpg)](https://www.youtube.com/watch?v=14kSnQ6gd3Q)
 @[youtube](https://youtube.com/embed/14kSnQ6gd3Q)
 
 ​
