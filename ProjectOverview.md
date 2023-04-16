@@ -56,7 +56,6 @@ In a continued quest to reduce waste and use more of each sheet of material, Fic
 
 ​
 [![growing parts in CNC waste](https://img.youtube.com/vi/14kSnQ6gd3Q/0.jpg)](https://www.youtube.com/watch?v=14kSnQ6gd3Q)
-@[youtube](https://youtube.com/embed/14kSnQ6gd3Q)
 
 ​
 
@@ -121,9 +120,7 @@ Ideally, we see these objects and the digital tools they are based on as a takin
 To explain the process in an analog way,  and show the problem of the nesting components for CNC production, we have created the Better CNC Factory Nesting game. A product of its own in which players take on the role of the nesting software, and compare their own speed and efficiency with Fiction Factory’s own nesting expert Vincent Mesker.
 
 ​
-
-@[youtube](https://youtube.com/embed/Y7UNH0xUYU4)
-
+[![CNC Nesting Game](https://img.youtube.com/vi/Y7UNH0xUYU4/0.jpg)](https://www.youtube.com/watch?v=Y7UNH0xUYU4)
 
 
 ## Vision
