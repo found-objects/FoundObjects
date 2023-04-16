@@ -11,17 +11,11 @@ Found Objects is a collaboration between Fiction Factory, Jesse Howard, and IAAC
 Our Team consists of:
 
 Marije Remigius \(Fiction Factory\)
-
 Vincent Mesker \(Fiction Factory\)
-
 Alexandre Dubor \(IAAC\)
-
 Vincent Huygue \(IAAC\)
-
 Ardeshir Talei \(IAAC\)
-
 and
-
 Jesse Howard
 
 ​
