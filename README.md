@@ -23,11 +23,14 @@ The Edge Generator has several inputs for adjusting parameters of the generated 
 	+ This is the maximum width of the generated parts. As a default, the max width is set to 60mm.
 - Convave and Convex Corners:
 	+ These values determine the fillet-type on the corners of the generated parts. 
-		* 0: rounded corners: <img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners0.png" width="250">
+		* 0: rounded corners: 
+			<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners0.png" width="250">
 		
-		* 1: chamfered corners: <img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners1.png" width="250">
+		* 1: chamfered corners: 
+			<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners1.png" width="250">
 
-		* 2: corners are a direct offset of nested parts: <img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners2.png" width="250">
+		* 2: corners are a direct offset of nested parts:
+			<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners2.png" width="250">
 		
 - Min Length:
 	+ This determines the maximum length of the generated parts. As a default the minimum is set to 200mm. 
