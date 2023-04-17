@@ -40,13 +40,14 @@ The Edge Generator has several inputs for adjusting parameters of the generated 
 
 ### Example
 This image shows a 1220 x 2440 mm sheet nested with parts to be milled. 
-![Nested Sheet](img/ExampleSheet.png)
+<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Example-Sheet.png" width="500">
 
 After running the Edge Generator definition, the curves shown below are generated around the edge of the sheet:
-![Nested Sheet with generated parts](img/Example-SheetParts.png)
+<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Example-SheetParts.png" width="500">
 
 These are the Found Object parts created:
-![Perspective view of parts](img/Example-GeneratedParts.png)
+<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Example-GeneratedParts.png" width="500">
+
 
 ### Credits
 The Edge Generator was developed by Vincent Huyghe and [Ardeshir Talaei from [IAAC](https://www.iaac.net) as part of the [Better CNC Factory](https://betterfactory.eu/bcf) project. 
