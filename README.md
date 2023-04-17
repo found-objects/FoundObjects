@@ -4,7 +4,8 @@
 The Found Objects Edge Generator is a grasshopper definition that can be used to create "Found Object" parts in the space around the edge of a CNC sheet. The definition generates curves in between the edge of the sheet and the parts nested within the sheet, and gives several options for adjusting parameters of the curves. 
 
 ### Grashopper Definition
-!(img/GH-overview.png)
+
+![grasshopper overivew](img/GH-overview.png)
 
 The defnition takes two types of geometry as input. The "Sheet Outline" is a rectangle that defines the outer dimensions of the sheet material. 
 
