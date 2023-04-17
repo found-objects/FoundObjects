@@ -42,7 +42,7 @@ This image shows a 1220 x 2440 mm sheet nested with parts to be milled.
 After running the Edge Generator definition, the curves shown below are generated around the edge of the sheet:
 <img src="https://github.com/found-objects/FoundObjects/blob/main/img/Example-SheetParts.png" width="500">
 
-These are the Found Object parts created:
+These are the Found Object parts created:  
 <img src="https://github.com/found-objects/FoundObjects/blob/main/img/Example-GeneratedParts.png" width="500">
 
 
