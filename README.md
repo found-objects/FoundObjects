@@ -47,4 +47,4 @@ These are the Found Object parts created:
 
 
 ### Credits
-The Edge Generator was developed by Vincent Huyghe and [Ardeshir Talaei from [IAAC](https://www.iaac.net) as part of the [Better CNC Factory](https://betterfactory.eu/bcf) project. 
+The Edge Generator was developed by Vincent Huyghe and Ardeshir Talaei from [IAAC](https://www.iaac.net) as part of the [Better CNC Factory](https://betterfactory.eu/bcf) project. 
