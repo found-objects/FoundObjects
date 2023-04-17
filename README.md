@@ -24,12 +24,15 @@ The Edge Generator has several inputs for adjusting parameters of the generated 
 - Convave and Convex Corners:
 	+ These values determine the fillet-type on the corners of the generated parts. 
 		* 0: rounded corners: 
+		
 			<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners0.png" width="250">
 		
 		* 1: chamfered corners: 
+		
 			<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners1.png" width="250">
 
 		* 2: corners are a direct offset of nested parts:
+
 			<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners2.png" width="250">
 		
 - Min Length:
