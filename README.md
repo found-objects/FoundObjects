@@ -24,12 +24,20 @@ The Edge Generator has several inputs for adjusting parameters of the generated 
 - Convave and Convex Corners:
 	+ These values determine the fillet-type on the corners of the generated parts. 
 		* 0: rounded corners
+		<img src="https://github.com/found-objects/FoundObjects/blob/main/img/Interface-Corners0.png" width="120">
 		* 1: chamfered corners
 		* 2: corners are a direct offset of nested parts
 - Min Length:
 	+ This determines the maximum length of the generated parts. As a default the minimum is set to 200mm. 
 
 ### Example
+This image shows a 1220 x 2440 mm sheet nested with parts to be milled. 
+![Nested Sheet](img/ExampleSheet.png)
 
+After running the Edge Generator definition, the curves shown below are generated around the edge of the sheet:
+![Nested Sheet with generated parts](Example-SheetParts.png)
+
+These are the Found Object parts created:
+![Perspective view of parts](Example-GeneratedParts.png)
 ### Credits
 The Edge Generator was developed by Vincent Huyghe and [Ardeshir Talaei from [IAAC](https://www.iaac.net) as part of the [Better CNC Factory](https://betterfactory.eu/bcf) project. 
