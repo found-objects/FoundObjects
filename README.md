@@ -9,10 +9,7 @@ The Found Objects Edge Generator is a grasshopper definition that can be used to
 
 The defnition takes two types of geometry as input. The "Sheet Outline" is a rectangle that defines the outer dimensions of the sheet material. 
 
-The "Nested Parts" geometry component contians the parts to be manufactured as closed polysurfaces. 
-
-(Add image of sheet boundry and parts)
-
+The "Nested Parts" geometry component contians the parts to be manufactured as closed polysurfaces.  
 The Edge Generator has several inputs for adjusting parameters of the generated curves:
 
 - Min Width:
